@@ -1,0 +1,9 @@
+.main{
+    display: flex;
+    justify-content: flex-start;
+    background-color: deepskyblue;
+    flex-direction: column;
+    margin-left: 35%;
+    width: 30%;
+    height: 200px;
+}
